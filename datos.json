@@ -1,57 +1,56 @@
 [
-                {
-                   "title": "Donde el Tio Ricky",
-                    "categoria": "Cartel",
-                    "imagen": "tioricky.png",
-                    "alt": "Tio Ricky"
-                },
-                {
-                    "title": "Las Fenix",
-                    "categoria": "Logotipo equipo de fútbol",
-                    "imagen": "fenix.png",
-                    "alt": "Las Fenix"
-                },
-                {
-                    "title": "Ecos del Territorio",
-                    "categoria": "Marketing",
-                    "imagen": "ecos.png",
-                    "alt": "Museo"
-                },
-                {
-                    "title": "Agua Noble",
-                    "categoria": "Nuevos productos",
-                    "imagen": "aguanoble.png",
-                    "alt": "Agua Noble"
-                },
-                {
-                    "title": "Ride One",
-                    "categoria": "Servicio/App",
-                    "imagen": "rideone.png",
-                    "alt": "Patinaje"
-                },
-                {
-                    "title": "Galletas Bon o Bon",
-                    "categoria": "Packaging",
-                    "imagen": "galletas.png",
-                    "alt": "Bon o Bon"
-                },
-                {
-                    "title": "Mimesis",
-                    "categoria": "Editorial de aprendizaje",
-                    "imagen": "Mimesis.png",
-                    "alt": "Editorial"
-                },
-                {
-                    "title": "ZUMMM",
-                    "categoria": "Diseño industrial",
-                    "imagen": "zummm.png",
-                    "alt": "Zummm"
-                },
-                {
-                    "title": "Cavernas Urbanas",
-                    "categoria": "Diseño Industrial",
-                    "imagen": "cavernas.png",
-                    "alt": "Cavernas"
-                }
-
-            ]
+    {
+        "title": "Donde el Tio Ricky",
+        "categoria": "Cartel",
+        "imagen": "tioricky.png",
+        "alt": "Tio Ricky"
+    },
+    {
+        "title": "Las Fenix",
+        "categoria": "Logotipo equipo de fútbol",
+        "imagen": "fenix.png",
+        "alt": "Las Fenix"
+    },
+    {
+        "title": "Ecos del Territorio",
+        "categoria": "Marketing",
+        "imagen": "ecos.png",
+        "alt": "Museo"
+    },
+    {
+        "title": "Agua Noble",
+        "categoria": "Nuevos productos",
+        "imagen": "aguanoble.png",
+        "alt": "Agua Noble"
+    },
+    {
+        "title": "Ride One",
+        "categoria": "Servicio/App",
+        "imagen": "rideone.png",
+        "alt": "Patinaje"
+    },
+    {
+        "title": "Galletas Bon o Bon",
+        "categoria": "Packaging",
+        "imagen": "galletas.png",
+        "alt": "Bon o Bon"
+    },
+    {
+        "title": "Mimesis",
+        "categoria": "Editorial de aprendizaje",
+        "imagen": "Mimesis.png",
+        "alt": "Editorial"
+    },
+    {
+        "title": "ZUMMM",
+        "categoria": "Diseño industrial",
+        "imagen": "zummm.png",
+        "alt": "Zummm"
+    },
+    {
+        "title": "Cavernas Urbanas",
+        "categoria": "Diseño Industrial",
+        "imagen": "cavernas.png",
+        "alt": "Cavernas"
+    }
+]
