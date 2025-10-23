@@ -10,9 +10,9 @@ async function datos(raw) {
 
                             <div class="col">
                                 <div class="card shadow-sm">
-                                <img src="${trabajo.imagen}" class"card-img-top">
+                                <img src="${trabajo.imagen}" class="card-img-top">
                                 <div class="card-body">
-                                <p class="card-text">${trabajo.titulo}</p>
+                                <p class="card-text">${trabajo.title}</p>
                                 <div class="d-flex
                                 justify-content-between
                                 align-items-center">
@@ -31,4 +31,5 @@ async function datos(raw) {
 } 
 
 datos("https://raw.githubusercontent.com/Lavendas/Clase10/refs/heads/main/datos.json");
+
 
