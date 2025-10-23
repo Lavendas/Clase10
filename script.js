@@ -12,7 +12,7 @@ async function datos(raw) {
                                 <div class="card shadow-sm">
                                 <img src="${trabajo.imagen}" class="card-img-top">
                                 <div class="card-body">
-                                <p class="card-text">${trabajo.titulo}</p>
+                                <p class="card-text">${trabajo.title}</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                 <button type="button" class="btn btn-sm btn-outline-secondary">${trabajo.categoria}</button>
@@ -27,5 +27,6 @@ async function datos(raw) {
         console.error("Error al cargar los datos:", error);
     }
 }
+
 
 datos("https://raw.githubusercontent.com/Lavendas/Clase10/refs/heads/main/datos.json");
