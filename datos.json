@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Donde el Tio Ricky",
+        "categoria": "Cartel",
+        "imagen": "https://lavendas.github.io/Clase10/tioricky.png",
+        "alt": "Tio Ricky"
+    },
+    {
+        "title": "Las Fenix",
+        "categoria": "Logotipo equipo de fútbol",
+        "imagen": "https://lavendas.github.io/Clase10/fenix.png",
+        "alt": "Las Fenix"
+    },
+    {
+        "title": "Ecos del Territorio",
+        "categoria": "Marketing",
+        "imagen": "https://lavendas.github.io/Clase10/ecos.png",
+        "alt": "Museo"
+    },
+    {
+        "title": "Agua Noble",
+        "categoria": "Nuevos productos",
+        "imagen": "https://lavendas.github.io/Clase10/aguanoble.png",
+        "alt": "Agua Noble"
+    },
+    {
+        "title": "Ride One",
+        "categoria": "Servicio/App",
+        "imagen": "https://lavendas.github.io/Clase10/rideone.png",
+        "alt": "Patinaje"
+    },
+    {
+        "title": "Galletas Bon o Bon",
+        "categoria": "Packaging",
+        "imagen": "https://lavendas.github.io/Clase10/galletas.png",
+        "alt": "Bon o Bon"
+    },
+    {
+        "title": "Mimesis",
+        "categoria": "Editorial de aprendizaje",
+        "imagen": "https://lavendas.github.io/Clase10/Mimesis.png",
+        "alt": "Editorial"
+    },
+    {
+        "title": "ZUMMM",
+        "categoria": "Diseño industrial",
+        "imagen": "https://lavendas.github.io/Clase10/zummm.png",
+        "alt": "Zummm"
+    },
+    {
+        "title": "Cavernas Urbanas",
+        "categoria": "Diseño Industrial",
+        "imagen": "https://lavendas.github.io/Clase10/cavernas.png",
+        "alt": "Cavernas"
+    }
+]
+
+
