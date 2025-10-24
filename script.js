@@ -30,7 +30,8 @@ async function datos(raw) {
     }
 } 
 
-datos("https://lavendas.github.io/Clase10/datos.json");
+datos("https://api.myjson.online/v1/records/0ab97927-73c3-47ea-a5b5-ef86c4a7341f");
+
 
 
 
