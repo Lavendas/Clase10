@@ -5,6 +5,7 @@ async function datos(raw) {
         let consulta = await fetch(raw);
         let resultado = await consulta.json();
         let trabajos = await consulta.json();
+        
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
@@ -32,6 +33,7 @@ async function datos(raw) {
 } 
 
 datos("https://api.myjson.online/v1/records/0ab97927-73c3-47ea-a5b5-ef86c4a7341f");
+
 
 
 
