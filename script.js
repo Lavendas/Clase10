@@ -30,7 +30,8 @@ async function datos(raw) {
     }
 } 
 
-datos("datos.json");
+datos("https://lavendas.github.io/Clase10/datos.json");
+
 
 
 
